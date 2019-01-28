@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Benjamin/Documents/School/CS310 C++/HW/pgmFile/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+string
+-
+math.h
+C:/Users/Benjamin/Documents/School/CS310 C++/HW/pgmFile/math.h
+
